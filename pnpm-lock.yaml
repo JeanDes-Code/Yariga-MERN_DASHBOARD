@@ -4,7 +4,7 @@ specifiers:
   '@mui/icons-material': ^5.8.3
   '@pankod/refine-cli': ^1.2.0
   '@pankod/refine-core': ^3.18.0
-  '@pankod/refine-inferencer': ^2.0.2
+  '@pankod/refine-inferencer': ^2.6.0
   '@pankod/refine-mui': ^3.30.0
   '@pankod/refine-react-hook-form': ^3.27.1
   '@pankod/refine-react-router-v6': ^3.18.0
@@ -29,7 +29,7 @@ dependencies:
   '@mui/icons-material': 5.11.0_pmekkgnqduwlme35zpnqhenc34
   '@pankod/refine-cli': 1.17.0_pmekkgnqduwlme35zpnqhenc34
   '@pankod/refine-core': 3.99.4_ffd5foczrxyy7gyjqbwgwcqlbq
-  '@pankod/refine-inferencer': 2.4.0_erjkdutj4qzmdydoq2zp62tf2u
+  '@pankod/refine-inferencer': 2.6.0_erjkdutj4qzmdydoq2zp62tf2u
   '@pankod/refine-mui': 3.61.5_rwafppeu4hv7ck5hhiglwm46qe
   '@pankod/refine-react-hook-form': 3.37.2_rwafppeu4hv7ck5hhiglwm46qe
   '@pankod/refine-react-router-v6': 3.38.0_rwafppeu4hv7ck5hhiglwm46qe
@@ -2470,8 +2470,8 @@ packages:
       - react-native
     dev: false
 
-  /@pankod/refine-inferencer/2.4.0_erjkdutj4qzmdydoq2zp62tf2u:
-    resolution: {integrity: sha512-De3S/H9lSAAscJ07WaEa1PYJ+OLsu6rqdJ5MwT4JATowV/F6g6uOqdgEF4jVVHizWhLkkHFb/2f8PdhVoOLLpw==}
+  /@pankod/refine-inferencer/2.6.0_erjkdutj4qzmdydoq2zp62tf2u:
+    resolution: {integrity: sha512-MujX5gqerwagT0fAkB3Yh3/hSSVuRPB87GmvDW3K9zUMaciitgXx8CttHRo6oJY/HA0UDgG7vTq0K/NXwNwOdQ==}
     peerDependencies:
       '@pankod/refine-antd': ^4.0.0
       '@pankod/refine-chakra-ui': ^1.2.0
